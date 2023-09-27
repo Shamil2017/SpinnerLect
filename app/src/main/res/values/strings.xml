@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpinnerLect</string>
+    <string name="change_color">Change color</string>
+    <string-array name="colorsStr">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+    </string-array>
+
+    <string-array name="description_of_temp">
+        <item>Красный цвет символизирует безудержное стремление к успеху</item>
+        <item>Это цвет людей, обладающих незаурядной интуицией и склонных к мечтательности. </item>
+        <item>Желтый цвет воспринимается как светящийся и теплый, так как он сильно ассоциируется с солнечным светом.  </item>
+        <item>Зеленый — цвет природы, естества, самой жизни, весны. </item>
+        <item>Голубой цвет — это символ впечатлительности, привязанности, верности. </item>
+    </string-array>
+
+
+</resources>
